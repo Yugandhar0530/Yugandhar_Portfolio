@@ -22,11 +22,6 @@
 - Integrated the best-performing LLM (text) and LAM (speech) into a stacked model, achieving the highest F1-score (84%) and demonstrating the effectiveness of multimodal approaches.
 
 
-### [Multiple PDF Reader using Gemini AI LLM API Key](https://github.com/Yugandhar0530/Fraud-Detection-Using-KNN-Classifier)
-- Developed a sophisticated PDF reader capable of extracting and interpreting data from multiple PDF documents simultaneously.
-- Utilized the Gemini AI LLM API to enhance the system’s ability to read and understand complex textual data, including tables, with high accuracy.
-- This project showcases the application of advanced AI technologies in document processing, enabling efficient data extraction and analysis from PDF files.
-
 ### [Fraud Detection Using KNN Classifier](https://github.com/Yugandhar0530/Fraud-Detection-Using-KNN-Classifier)
 - Participated in a hackathon that dealt with Detecting fraud for transactions in a payment gateway dataset.
 - Executed KNN Classifier Model with an accuracy of 98%.
