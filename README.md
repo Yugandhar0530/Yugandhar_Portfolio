@@ -23,21 +23,25 @@
 - Integrated the best-performing LLM (text) and LAM (speech) into a stacked model, achieving the highest F1-score (84%) and demonstrating the effectiveness of multimodal approaches.
 
 
-### [Fraud Detection Using KNN Classifier](https://github.com/Yugandhar0530/Fraud-Detection-Using-KNN-Classifier)
+### Fraud Detection Using KNN Classifier
+[publication](https://github.com/Yugandhar0530/Fraud-Detection-Using-KNN-Classifier)
 - Participated in a hackathon that dealt with Detecting fraud for transactions in a payment gateway dataset.
 - Executed KNN Classifier Model with an accuracy of 98%.
  
- ### [Face_Recognition_using_autoencoders](https://github.com/Yugandhar0530/Face_Recognition_using_autoencoders)
+ ### Face_Recognition_using_autoencoders
+ [publication](https://github.com/Yugandhar0530/Face_Recognition_using_autoencoders)
 - Dealt with dry bean data set, and performed SVM model with an accuracy of 85%.
 - Developed an image recognition model for my batch profile using autoencoders.
 
- ### [News Recommendation using Reinforcement Learning](https://github.com/Yugandhar0530/Yugandhar0530-News_Recommendation_Reinforcement_Learning)
+ ### News Recommendation using Reinforcement Learning
+ [publication](https://github.com/Yugandhar0530/Yugandhar0530-News_Recommendation_Reinforcement_Learning)
 - Combined datasets from NDTV and India Today, creating a unified dataset.
 - Utilized the BERT transformer model for tokenization and encoding of news article content.
 - Employed Reinforcement Learning (Q-learning) to cluster news articles based on their embeddings.
 - Defined categories (General, Politics, Technology, Finance, Entertainment) and mapped clusters to categories.
 
-### [News Sentiment Analysis](https://github.com/Yugandhar0530/News-Sentiment-Analysis_ML-DL-Models)
+### News Sentiment Analysis
+[publication](https://github.com/Yugandhar0530/News-Sentiment-Analysis_ML-DL-Models)
 - Utilized a dataset spanning 8 months with about 100,000 news items on topics like economy, Microsoft, Obama, and Palestine.
 - Explored models such as Logistic Regression, Random Forest, Decision Tree, RNN, LSTM, BiLSTM, and Word Embeddings.
 - The BiLSTM model outperformed others with 72%, providing a robust solution for sentiment prediction in news headlines.
