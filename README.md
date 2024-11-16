@@ -15,6 +15,18 @@
 - Which helped the simulation team to run simulations faster and get results faster.
 
 ## Projects
+### [A Comparative Analysis of Text and Speech Modalities for Emotion Detection: Leveraging ML, DL, and Fine-Tuned LLMs and LAMs](https://github.com/Swaijit-Singh/RI-Emotion-Detection/tree/main)
+- Investigated emotion detection in Indian university students (ages 18–25) using machine learning, deep learning, and Large Language Models (LLMs) for text and speech data across six emotions (anger, disgust, fear, happiness, sadness, surprise)
+- LLMs (e.g., Bert base) outperformed for text analysis (F1-score: 0.7528), while Large Audio Models (e.g., facebook/data2vec-audio-base) showed limited performance for speech (F1-score: 0.2824).
+- Combined text and speech data with first- and second-person perspectives, validated through third-person human benchmarking (F1-scores: 0.748 for text, 0.789 for speech).
+- Integrated the best-performing LLM (text) and LAM (speech) into a stacked model, achieving the highest F1-score (84%) and demonstrating the effectiveness of multimodal approaches.
+
+
+### [Multiple PDF Reader using Gemini AI LLM API Key](https://github.com/Yugandhar0530/Fraud-Detection-Using-KNN-Classifier)
+- Developed a sophisticated PDF reader capable of extracting and interpreting data from multiple PDF documents simultaneously.
+- Utilized the Gemini AI LLM API to enhance the system’s ability to read and understand complex textual data, including tables, with high accuracy.
+- This project showcases the application of advanced AI technologies in document processing, enabling efficient data extraction and analysis from PDF files.
+
 ### [Fraud Detection Using KNN Classifier](https://github.com/Yugandhar0530/Fraud-Detection-Using-KNN-Classifier)
 - Participated in a hackathon that dealt with Detecting fraud for transactions in a payment gateway dataset.
 - Executed KNN Classifier Model with an accuracy of 98%.
