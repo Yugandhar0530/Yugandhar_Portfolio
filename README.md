@@ -16,6 +16,7 @@
 
 ## Projects
 ## A Comparative Analysis of Text and Speech Modalities for Emotion Detection: Leveraging ML, DL, and Fine-Tuned LLMs and LAMs
+
 [publication](https://github.com/Swaijit-Singh/RI-Emotion-Detection/tree/main)
 [paper](https://github.com/Yugandhar0530/Yugandhar_Portfolio/blob/main/Research_Paper_Emotion_Detection.pdf)
 - Investigated emotion detection in Indian university students (ages 18–25) using machine learning, deep learning, and Large Language Models (LLMs) for text and speech data across six emotions (anger, disgust, fear, happiness, sadness, surprise)
@@ -30,11 +31,13 @@
 - Executed KNN Classifier Model with an accuracy of 98%.
 
  ## Face Recognition using autoencoders
+ 
  [publication](https://github.com/Yugandhar0530/Face_Recognition_using_autoencoders)
 - Dealt with dry bean data set, and performed SVM model with an accuracy of 85%.
 - Developed an image recognition model for my batch profile using autoencoders.
 
  ## News Recommendation using Reinforcement Learning
+ 
  [publication](https://github.com/Yugandhar0530/Yugandhar0530-News_Recommendation_Reinforcement_Learning)
 - Combined datasets from NDTV and India Today, creating a unified dataset.
 - Utilized the BERT transformer model for tokenization and encoding of news article content.
@@ -42,6 +45,7 @@
 - Defined categories (General, Politics, Technology, Finance, Entertainment) and mapped clusters to categories.
 
 ## News Sentiment Analysis
+
 [publication](https://github.com/Yugandhar0530/News-Sentiment-Analysis_ML-DL-Models)
 - Utilized a dataset spanning 8 months with about 100,000 news items on topics like economy, Microsoft, Obama, and Palestine.
 - Explored models such as Logistic Regression, Random Forest, Decision Tree, RNN, LSTM, BiLSTM, and Word Embeddings.
