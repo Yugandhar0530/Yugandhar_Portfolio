@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, MySQL,Excel, PowerBI, Machine Learning, Deep Learning
+#### Skills: Python, MySQL,Excel, PowerBI, Machine Learning, Deep Learning
 
 ## Education
 - Btech-Artificial Intelligence | Vijaybhoomi University (_2024_)	
