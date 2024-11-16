@@ -30,13 +30,13 @@
 - Participated in a hackathon that dealt with Detecting fraud for transactions in a payment gateway dataset.
 - Executed KNN Classifier Model with an accuracy of 98%.
 
- ## Face Recognition using autoencoders
+## Face Recognition using autoencoders
  
  [publication](https://github.com/Yugandhar0530/Face_Recognition_using_autoencoders)
 - Dealt with dry bean data set, and performed SVM model with an accuracy of 85%.
 - Developed an image recognition model for my batch profile using autoencoders.
 
- ## News Recommendation using Reinforcement Learning
+## News Recommendation using Reinforcement Learning
  
  [publication](https://github.com/Yugandhar0530/Yugandhar0530-News_Recommendation_Reinforcement_Learning)
 - Combined datasets from NDTV and India Today, creating a unified dataset.
