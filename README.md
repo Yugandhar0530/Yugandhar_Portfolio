@@ -16,6 +16,7 @@
 
 ## Projects
 ### [A Comparative Analysis of Text and Speech Modalities for Emotion Detection: Leveraging ML, DL, and Fine-Tuned LLMs and LAMs](https://github.com/Swaijit-Singh/RI-Emotion-Detection/tree/main)
+[paper](https://github.com/Yugandhar0530/Yugandhar_Portfolio/blob/main/Research_Paper_Emotion_Detection.pdf)
 - Investigated emotion detection in Indian university students (ages 18–25) using machine learning, deep learning, and Large Language Models (LLMs) for text and speech data across six emotions (anger, disgust, fear, happiness, sadness, surprise)
 - LLMs (e.g., Bert base) outperformed for text analysis (F1-score: 0.7528), while Large Audio Models (e.g., facebook/data2vec-audio-base) showed limited performance for speech (F1-score: 0.2824).
 - Combined text and speech data with first- and second-person perspectives, validated through third-person human benchmarking (F1-scores: 0.748 for text, 0.789 for speech).
